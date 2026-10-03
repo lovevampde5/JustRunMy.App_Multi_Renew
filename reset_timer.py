@@ -30,7 +30,7 @@ if not EMAIL or not PASSWORD:
     print("请检查 GitHub Repository Secrets 是否配置正确（EML_1, PWD_1...）。")
     sys.exit(1)
 
-DYNAMIC_APP_NAME = "heisirenqi"
+DYNAMIC_APP_NAME = "flask-web-app"
 
 # ============================================================
 #  Telegram 推送模块 (前缀加 JRM)
