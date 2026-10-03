@@ -10,7 +10,7 @@ import requests
 from seleniumbase import SB
 
 LOGIN_URL = "https://justrunmy.app/id/Account/Login"
-APP_URL   = "https://justrunmy.app/panel/application/49496/"
+APP_URL   = "https://justrunmy.app/panel/application/54952/"
 DOMAIN    = "justrunmy.app"
 
 # ============================================================
